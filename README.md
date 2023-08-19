@@ -1,2 +1,23 @@
 # add-Inflearn_Spring_Basic_Summary
-JAVA_스프링 기본 강의 총 정리(주문과 할인 도메인 예제,AOP, 좋은 객체 지향 설계의 5가지 원칙,스프링 컨테이너,싱글톤 컨테이너,컴포넌트 스캔,의존관계 자동 주입,빈 생명주기, 빈 스코프)
+
+Spring Basic - 1. 객체 지향 설계와 스프링
+
+https://dk-programming.tistory.com/46
+
+
+Spring Basic - 2. 객체 지향 원리를 적용해보는 예제 1
+
+https://dk-programming.tistory.com/47
+
+Spring Basic - 3. 객체 지향 원리를 적용해보는 예제 2
+
+https://dk-programming.tistory.com/48
+
+Spring Basic - 4. 스프링 컨테이너, 스프링 빈
+
+https://dk-programming.tistory.com/49
+
+Spring Basic - 5. 싱글톤 컨테이너
+
+https://dk-programming.tistory.com/50
+
